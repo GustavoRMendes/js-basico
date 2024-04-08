@@ -8,3 +8,6 @@ const imposto = 10;
 total = compras + imposto;
 const dobro = total * 2;
 console.log(dobro);
+
+const transformar = Number('20');
+console.log(typeof transformar);
