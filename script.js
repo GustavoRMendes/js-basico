@@ -1,1 +1,2 @@
-console.log("teste");
+const nome = 'JavaScript';
+console.log(nome);
