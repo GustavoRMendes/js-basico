@@ -12,3 +12,5 @@ nav.style.backgroundColor = "black";
 nav.style.padding = "1rem";
 
 nav.classList.add("ativo");
+
+console.dir(nav);
