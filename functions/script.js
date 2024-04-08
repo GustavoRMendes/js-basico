@@ -4,3 +4,9 @@ function showMessage () {
 }
 
 showMessage();
+
+function showNumber (number) {
+  console.log(number);
+}
+showNumber(20);
+showNumber(10);
