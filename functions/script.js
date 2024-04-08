@@ -10,3 +10,10 @@ function showNumber (number) {
 }
 showNumber(20);
 showNumber(10);
+
+
+function fullName (name) {
+  return name;
+}
+
+console.log(fullName("Gustavo Mendes"));
