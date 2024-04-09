@@ -1,0 +1,8 @@
+Quais elementos serão observados/modificados?
+
+Quais eventos serão observados?
+
+Quais informações dis elementos/browser precisamos?
+
+Quais informações dos elementos/browser serão alteradas?
+
