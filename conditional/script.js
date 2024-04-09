@@ -23,3 +23,10 @@ if (a) {
 } else {
   console.log("Não existe a tag <a>")
 }
+
+
+const elemento = document.querySelector("p");
+
+if (elemento || document.querySelector("body")) {
+  console.log("teste")
+}
