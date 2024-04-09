@@ -13,3 +13,11 @@ const numbers = [1, 2, 3,]
 numbers.forEach(n => {
   console.log(n);
 })
+
+
+const links = document.querySelectorAll("nav a");
+console.log(links)
+
+links.forEach(link => {
+  console.log(link.href);
+})
